@@ -16,7 +16,7 @@ Esta comunidade open-source foi criada para conectar desenvolvedores JavaScript 
 
 ### 1️⃣ Junte-se à comunidade
 1. **Siga nossa organização no GitHub** para ficar por dentro dos projetos.
-2. **Entre no nosso [Discord](https://discord.gg/TaMv955e)**  para interagir com outros membros e mentores.
+2. **Entre no nosso [Discord](https://discord.gg/VA2V5CZp)**  para interagir com outros membros e mentores.
 
 ### 2️⃣ Configure seu ambiente
 1. Certifique-se de ter **Git** e **Node.js** instalados.
@@ -44,7 +44,7 @@ Nosso objetivo é criar um ambiente inclusivo e colaborativo. Por favor, leia no
 ## 🎯 Como funciona a mentoria?
 1. Os mentores disponibilizam horários para tirar dúvidas e revisar PRs.
 2. Você pode solicitar uma mentoria abrindo uma issue com a tag `mentoria`.
-3. Participe de sessões ao vivo no nosso [Discord](https://discord.gg/TaMv955e).
+3. Participe de sessões ao vivo no nosso [Discord](https://discord.gg/VA2V5CZp).
 
 ---
 
