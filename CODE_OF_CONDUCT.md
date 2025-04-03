@@ -22,7 +22,7 @@ A **JS Dev Community** é um espaço aberto e colaborativo para desenvolvedores 
 ---
 
 ## 3️⃣ Aplicação do Código de Conduta
-Os moderadores e administradores da comunidade têm o direito de remover qualquer conteúdo ou membro que viole este código de conduta. Caso presencie alguma violação, entre em contato com a equipe responsável através da comunidade do **[discord](https://discord.gg/VA2V5CZp)**.
+Os moderadores e administradores da comunidade têm o direito de remover qualquer conteúdo ou membro que viole este código de conduta. Caso presencie alguma violação, entre em contato com a equipe responsável através da comunidade do **[discord](https://discord.gg/wNeq27J8q2)**.
 
 ---
 
@@ -35,6 +35,6 @@ Dependendo da gravidade da violação, as consequências podem incluir:
 ---
 
 ## 5️⃣ Contato
-Se precisar reportar qualquer incidente ou tiver dúvidas sobre este código de conduta, entre em contato pelo canal do  **[discord](https://discord.gg/VA2V5CZp)** ou abra uma **Issue privada** no GitHub.
+Se precisar reportar qualquer incidente ou tiver dúvidas sobre este código de conduta, entre em contato pelo canal do  **[discord](https://discord.gg/wNeq27J8q2)** ou abra uma **Issue privada** no GitHub.
 
 🔗 **Juntos, criamos uma comunidade segura e acolhedora para todos!** 🚀
